@@ -1,21 +1,18 @@
 
     body {
-    background-color: #EAF6F6;
+    background-color: #a1cae2;
   }
  h1{
-   color: #66BFBF
+   color: #4a47a3;
 
  }
 
 
 h3{
-  color: #66BFBF
-
-}
-
-h3{
+  color: #4a47a3;
   font-style: italic;
 }
+
 
 p{
   font-family: Arial;
@@ -29,6 +26,19 @@ hr  {
   border-top-style: dotted;
 border-color: grey;
 border-width: 5px;
-width: 5%;
+width: 40%;
+
+}
+
+.goku {
+  height: 220px;
+  float: left;
+
+}
+
+.freiza {
+  float: right;
+  height: 300px;
+
 
 }
